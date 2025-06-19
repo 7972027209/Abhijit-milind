@@ -6,3 +6,4 @@ fir se conflict
 OMG
 conflict resolved 
 again create conflict
+git fetch
